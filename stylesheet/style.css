@@ -1,0 +1,47 @@
+.header{
+    background-color: #EF0D50;
+    height: 90px;
+    color: #fff;
+}
+
+li{
+    list-style: none;
+    float: left;
+    padding: 33px 20px;
+}
+
+.header-logo{
+    font-size:36px;
+    float: left;
+    padding: 20px 40px;
+}
+
+.main{
+    background-color:#E6E2DD;
+    height: 600px;
+}
+
+.footer{
+    background-color:#EF0D50;
+    color: #fff;
+    height:120px;
+    padding: 40px;
+}
+
+.footer-logo{
+    font-size:32px;
+    float: left;
+}
+
+.footer-list{
+    float: right;
+}
+
+.footer-copyright{
+    font-size:15px;
+
+}
+
+.footer-list li{
+    padding-bottom: 20px;
+}
